@@ -19,10 +19,14 @@ https://accessibilityinsights.io/downloads/
 Change this line `Windows Run    D:\\Robot\\MyCRM\\MyCRM.exe` to reflect your desire application
 Ensure that application is executable
 
-robot demo.robot
+Then you may run the robot
+
+`robot demo.robot`
 
 ## Reference
 
 https://www.youtube.com/watch?v=wMl5UQPvgVs
 
 https://www.youtube.com/watch?v=_82AEg5u59c
+
+https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#introduction
